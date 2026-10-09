@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "90cbc77afc750a35f9cbba52",
+  "owner": "jichangdaquan999",
+  "repo": "page-c90cde3ce7e3277fc7123626",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c90cde3ce7e3277fc7123626",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a9bf3be72fbec8db32e101e9327ca42668a6425022acd56fd0585a17796b64f9",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单提供专业机场服务和VPN加速方案，选择基础版、旗舰版或团队版，享受高速节点和官方客户端下载。",
+          "AI_DESCRIPTION": "机场榜单提供专业机场服务和VPN加速方案，选择基础版、旗舰版或团队版，享受高速节点和官方客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  margin: 0;\n  padding: 0;\n  background-color: #fdfaf4;\n  color: #333;\n  line-height: 1.6;\n}\nheader {\n  background-color: #fff;\n  padding: 1rem;\n  box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n}\nh1 {\n  font-size: 2rem;\n  color: #ff6b35;\n  text-align: center;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 2rem;\n}\nsection {\n  margin-bottom: 3rem;\n}\nh2 {\n  font-size: 1.8rem;\n  color: #ff6b35;\n  border-bottom: 2px solid #ff6b35;\n  padding-bottom: 0.5rem;\n}\n.card {\n  display: flex;\n  flex-direction: column;\n  background: white;\n  border-radius: 8px;\n  overflow: hidden;\n  box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n  transition: transform 0.3s;\n}\n.card:hover {\n  transform: translateY(-5px);\n}\n.card.featured {\n  border: 2px solid #ff6b35;\n}\n@media (min-width: 768px) {\n  .card {\n    flex-direction: row;\n  }\n  .card-text {\n    flex: 1;\n    padding: 1.5rem;\n  }\n  .card-features {\n    flex: 1;\n    padding: 1.5rem;\n    background: #fffaf0;\n  }\n}\n.card:nth-child(even) {\n  background: #fffaf0;\n}\n@media (max-width: 767px) {\n  .card {\n    margin-bottom: 1rem;\n  }\n}\n.feature-list {\n  list-style: none;\n  padding: 0;\n}\n.feature-list li {\n  padding: 0.5rem 0;\n  position: relative;\n  padding-left: 1.5rem;\n}\n.feature-list li:before {\n  content: \"✓\";\n  color: #ff6b35;\n  position: absolute;\n  left: 0;\n}\n.cta {\n  background-color: #ff6b35;\n  color: white;\n  padding: 1rem 2rem;\n  text-align: center;\n  border-radius: 8px;\n  display: inline-block;\n  text-decoration: none;\n  margin-top: 1rem;\n}\n#download {\n  text-align: center;\n}\n.faq {\n  background: white;\n  border-radius: 8px;\n  padding: 1rem;\n  margin-bottom: 1rem;\n}\ndetails {\n  margin-bottom: 1rem;\n}\nsummary {\n  font-weight: bold;\n  cursor: pointer;\n  list-style: none;\n  padding: 0.5rem;\n  background: #fffaf0;\n  border-radius: 4px;\n}\nsummary::-webkit-details-marker {\n  display: none;\n}\n@media (max-width: 767px) {\n  main {\n    padding: 1rem;\n  }\n  h1 {\n    font-size: 1.8rem;\n  }\n}\n</style>\n\n\n<header>\n<h1>机场榜单</h1>\n</header>\n<main>\n<section>\n<h2>专业机场服务</h2>\n<p>机场榜单为您提供最新的机场节点推荐和VPN网络加速服务。通过优质的机场服务，帮助用户解锁全球内容，享受高速稳定的网络连接。无论您是个人用户还是企业团队，我们都提供灵活的套餐选择和官方客户端下载。</p>\n</section>\n<section>\n<h2>选择您的套餐</h2>\n<div class=\"plan-cards\">\n<div class=\"card\">\n<div class=\"card-text\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月<br>按年付仅需 ¥150/年</p>\n</div>\n<div class=\"card-features\">\n<ul class=\"feature-list\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<a href=\"#subscribe\" class=\"cta\">立即订阅</a>\n</div>\n</div>\n<div class=\"card featured\">\n<div class=\"card-text\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月<br>按年付仅需 ¥350/年</p>\n</div>\n<div class=\"card-features\">\n<ul class=\"feature-list\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<a href=\"#subscribe\" class=\"cta\">立即订阅</a>\n</div>\n</div>\n<div class=\"card\">\n<div class=\"card-text\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月<br>按年付仅需 ¥850/年</p>\n</div>\n<div class=\"card-features\">\n<ul class=\"feature-list\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<a href=\"#subscribe\" class=\"cta\">立即订阅</a>\n</div>\n</div>\n</div>\n</section>\n<section>\n<h2>客户端选择与下载</h2>\n<p>机场榜单强调客户端选择，为用户提供多种官方客户端下载，帮助您更便捷地连接机场节点。无论是Windows、macOS、Android还是iOS，我们都支持官方版本，确保安全稳定。</p>\n<div id=\"download\">\n<h3>立即下载官方客户端</h3>\n<p>点击下方按钮下载适合您的客户端，快速连接高速机场节点，享受加速服务。</p>\n<a href=\"#download\" class=\"cta\">下载客户端</a>\n</div>\n</section>\n<section>\n<h2>使用指南</h2>\n<ol>\n<li>选择适合的套餐并完成订阅</li>\n<li>登录账号获取节点信息</li>\n<li>下载官方客户端并安装</li>\n<li>配置节点连接，享受网络加速</li>\n</ol>\n</section>\n<section>\n<h2>常见问题 FAQ</h2>\n<details>\n<summary>如何订阅机场服务？</summary>\n<p>在机场榜单网站上选择套餐，支付后立即获得访问权限。您可以随时查看最新的机场节点列表并连接使用。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>基础版支持3台设备，旗舰版支持5台，团队版支持20台。所有套餐均支持主流操作系统和移动设备。</p>\n</details>\n<details>\n<summary>节点质量如何？</summary>\n<p>机场榜单提供高质量节点池，包括IPLC专线，游戏加速优化，确保低延迟和高速度。支持全节点原生解锁流媒体。</p>\n</details>\n<details>\n<summary>如何下载客户端？</summary>\n<p>在官网或机场榜单页面点击下载按钮，获取官方客户端。所有下载均为安全正版，确保无病毒。</p>\n</details>\n<details>\n<summary>客服支持如何？</summary>\n<p>我们提供7x24在线客服支持，包括优先工单处理。团队版额外提供专属客户经理服务。</p>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>© 机场榜单 2024. 友情链接: <a href=\"#\">机场官网</a> | <a href=\"#\">VPN加速</a></p>\n</footer>\n\n",
+          "hash": "15104751b26939304c9cdaf98d0d7ad816730848e3f4eb578c1e8022531b6653",
+          "seo": {
+            "title": "机场榜单 | 最新机场推荐与VPN加速客户端下载",
+            "keywords": "机场榜单,机场推荐,机场节点,VPN加速,客户端下载,机场套餐",
+            "description": "机场榜单提供专业机场服务和VPN加速方案，选择基础版、旗舰版或团队版，享受高速节点和官方客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "oevdikd.cn",
+    "host": "p-f148bae787.oevdikd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c5b037f124eb0558e2ed0762db9f92716b0fc0fe825bfbdeaf68d0aad2dda6d8",
+    "sitemap.xml": "48b439a21047a4e0550f6bdf5be20f6152478bcf39ce5cb7899ac9af10faa021",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "93e5b94f3ef7bdeac950b6117a383ce7f5410e23e31c8dac17d0c94137285fb6",
+    "robots.txt": "a21c73bcd276fafd50032903e1da0913c7dcb50003733639613b7e5bfe5e8489",
+    "22c8c2da4cf0936e8fb162c1bb22ee2c.txt": "2bafb05b58c69dd6172f6ad5626f6bd296cce12119e9337db66dd808b8431fa4"
+  },
+  "revision": "cdf755bad0efc7f73c4f8995abc3e87083bf5657fd63750eba56cdb142d7e4d5"
+}
